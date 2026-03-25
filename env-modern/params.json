@@ -1,0 +1,7 @@
+{
+"cavity_freq" : 3.0e3,
+"cavity_detuning" : 2.0,
+"cavity_decay" : 0.1,
+"cavity_self_kerr" : 0.0,
+"cavity_drive_amp" : 0.5
+}
