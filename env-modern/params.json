@@ -1,7 +1,22 @@
 {
-"cavity_freq" : 3.0e3,
+"cavity_freq" : 4.62e3,
 "cavity_detuning" : 2.0,
-"cavity_decay" : 0.1,
+"cavity_decay" : 0.67e-3,
 "cavity_self_kerr" : 0.0,
-"cavity_drive_amp" : 0.5
+"cavity_drive_amp" : 0.0,
+"cavity_qubit_coupling" : 0.671,
+
+
+"qubit_resonator_coupling" : 3.538,
+"qubit_freq" : 3.03e3,
+"qubit_detuning" : 0.0,
+"qubit_decay" : 0.05,
+"qubit_drive_amp" : 4.0,
+"qubit_anharmonicity" : -164.0,
+
+
+"resonator_freq" : 7.95e3,
+"resonator_decay" : 0.984,
+"resonator_drive_amp" : 0.0,
+"resonator_detuning" : 2.0
 }
