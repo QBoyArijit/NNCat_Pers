@@ -396,6 +396,7 @@ version = "0.1.0"
 source = { virtual = "." }
 dependencies = [
     { name = "dynamiqs" },
+    { name = "ipykernel" },
     { name = "jax" },
     { name = "matplotlib" },
     { name = "numpy" },
@@ -413,6 +414,7 @@ dev = [
 [package.metadata]
 requires-dist = [
     { name = "dynamiqs", specifier = ">=0.3.4" },
+    { name = "ipykernel", specifier = ">=7.2.0" },
     { name = "jax", specifier = ">=0.6.2" },
     { name = "matplotlib", specifier = ">=3.10.8" },
     { name = "numpy", specifier = ">=2.4.3" },
